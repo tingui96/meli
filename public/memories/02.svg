@@ -1,0 +1,19 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="1200" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4EEE4"/>
+      <stop offset="0.5" stop-color="#F6E9EA"/>
+      <stop offset="1" stop-color="#EFE7DA"/>
+    </linearGradient>
+    <filter id="b2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="1200" rx="42" fill="url(#g2)"/>
+  <g filter="url(#b2)" opacity="0.8">
+    <path d="M212 812C356 632 484 554 660 548C824 542 922 672 1040 694C1222 728 1354 596 1458 442V1004H212V812Z" fill="#E7D9CF"/>
+    <circle cx="560" cy="408" r="210" fill="#EBD6D2"/>
+    <circle cx="1180" cy="790" r="260" fill="#E6DEE9"/>
+  </g>
+  <rect x="120" y="110" width="1360" height="980" rx="34" stroke="rgba(30,27,24,0.12)" stroke-width="2"/>
+</svg>
