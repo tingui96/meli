@@ -77,7 +77,7 @@ export const letterBlocks: LetterBlock[] = [
   {
     type: "paragraph",
     id: "p9",
-    text: "— Siempre tuyo/a, en voz baja.",
+    text: "— Siempre tuyo, en voz baja.",
   },
 ];
 
